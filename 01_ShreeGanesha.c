@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Shree Ganesha....");
+    printf("Shree Ganesha....New Begining");
     return(0);
 }
